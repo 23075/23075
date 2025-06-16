@@ -20,7 +20,7 @@ A passionate coder, curious mind, and coffee-fueled creator from India ☕🌱  
 
 [![](https://visitcount.itsvg.in/api?id=23075&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-![Leetcode Stats](https://leetcard.jacoblin.cool/23075?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Rey24?ext=heatmap)
 
 
   ## 💰 You can help me by Donating
