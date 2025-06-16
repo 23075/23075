@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate coder, curious mind, and coffee-fueled creator from India ☕🌱  <br>🌱 Learning & Growing<br>🔍 Deepening my knowledge in NLP and LLMs<br> 💡 Exploring Edge AI and IoT integrations<br>🚀 Currently Working On:<br>- 🎯 **Trimodal Emotion Recognition** – Combining Face, Voice & Text signals for emotion classification.<br>- 📊 **Car Price Prediction** – A machine learning model to estimate used car prices.<br>- 🌐 **Snackbit** – A smart snacking recommendation app for healthy lifestyle lovers!<br><br> # I'm convinced AI + Art is the next creative revolution. Wanna collab? 🎨🤖
+A passionate coder, curious mind, and coffee-fueled creator from India ☕🌱  <br>🌱 Learning & Growing<br>🔍 Deepening my knowledge in NLP and LLMs<br> 💡 Exploring Edge AI and IoT integrations<br>🚀 Currently Working On:<br>- 🎯 **Trimodal Emotion Recognition** – Combining Face, Voice & Text signals for emotion classification.<br>- 📊 **Car Price Prediction** – A machine learning model to estimate used car prices.<br>- 🌐 **Snackbit** – A smart snacking recommendation app for healthy lifestyle lovers!<br><br> #I'm convinced AI + Art is the next creative revolution. Wanna collab? 🎨🤖
 
 
 ## 🌐 Socials:
