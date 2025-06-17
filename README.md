@@ -24,7 +24,7 @@ A passionate coder, curious mind, and coffee-fueled creator from India ☕🌱  
 
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://coff.ee/ray24) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/shreyalidongre) 
-
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://coff.ee/ray24) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/shreyalidongre) <br><br>
+![](238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
