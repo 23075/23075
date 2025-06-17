@@ -1,7 +1,7 @@
-# 💫 About Me:
-A passionate coder, curious mind, and coffee-fueled creator from India ☕🌱  <br>🌱 Learning & Growing<br>🔍 Deepening my knowledge in NLP and LLMs<br> 💡 Exploring Edge AI and IoT integrations<br>🚀 Currently Working On:<br>- 🎯 **Trimodal Emotion Recognition** – Combining Face, Voice & Text signals for emotion classification.<br>- 📊 **Car Price Prediction** – A machine learning model to estimate used car prices.<br>- 🌐 **Snackbit** – A smart snacking recommendation app for healthy lifestyle lovers!<br><br>
-***I'm convinced AI + Art is the next creative revolution. Wanna collab?*** 🎨🤖
-
+# 💫 About Me: <br> 
+A passionate coder, curious mind, and coffee-fueled creator from India ☕🌱  <br>🌱 Learning & Growing<br>🔍 Deepening my knowledge in NLP and LLMs<br> 💡 Exploring Edge AI and IoT integrations<br>🚀 Currently Working On:<br>- 🎯 **Trimodal Emotion Recognition** – Combining Face, Voice & Text signals for emotion classification.<br>- 📊 **Car Price Prediction** – A machine learning model to estimate used car prices.<br>- 🌐 **Snackbit** – A smart snacking recommendation app for healthy lifestyle lovers!<br><br>![](212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+***I'm convinced AI + Art is the next creative revolution. Wanna collab?*** 🎨🤖 
+<br><br>![](236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/raylee_91624) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyali.d.2054) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyali-dongre-561049284/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shreyali.d.10) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/Ray102404/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyali.d.10@gmail.com) 
@@ -20,6 +20,7 @@ A passionate coder, curious mind, and coffee-fueled creator from India ☕🌱  
 
 [![](https://visitcount.itsvg.in/api?id=23075&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
+# 📊 Leetcode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Rey24?ext=heatmap)
 
 
